@@ -41,8 +41,6 @@ public class CourseController {
                 html.append("<li><strong>").append(c.getCourseCode()).append("</strong> - ").append(c.getName()).append("</li>"));
         html.append("</ul>");
 
-        html.append("<p><small>Part A (HTML) + Part B (MySQL CRUD) ready</small></p>");
-        html.append("</body></html>");
         return html.toString();
     }
 
