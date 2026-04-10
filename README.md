@@ -146,7 +146,7 @@ If anything doesn’t run or you get errors:
 - Double-check `application.properties` file is in `src/main/resources`
 
 **Contact for help:**  
-**Email:** 223038030@ufh.ac.za
+**Email:** 223038030@ufh.ac.za or one of the other group member
 
 ---
 
