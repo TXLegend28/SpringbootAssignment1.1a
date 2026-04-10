@@ -8,7 +8,7 @@
 
 **Repository:** https://github.com/TXLegend28/SpringbootAssignment1.1a  
 
-**Group Members/ collaborators**
+**Group Members/ contributors**
 1.	Zuma Gareth - 223038030 (TXLegend28)
 2.	Ndamase Someleze - 202337430 (ndamasesomeleze24-arch)
 3.	Mdingi Asemahle - 223031950 (mdingiasie-crypto) (Group Representative)
@@ -40,7 +40,7 @@ It fully meets **all requirements** for **Part A** and **Part B** of the assignm
 - **Part A**: Basic Spring Boot application + HTTP endpoint + GitHub setup (50 marks)
 - **Part B**: Full CRUD operations + Bean Validation + persistent MySQL database using XAMPP (50 marks)
 
-The application features a **modern, professional dashboard** ( Bit-by-Bit Management System style) with clean UI, Tailwind CSS, hover effects, and responsive design.
+The application features a **modern, fluid dashboard** ( Bit-by-Bit Management System style) with clean UI, Tailwind CSS, hover effects, and responsive design.
 
 ---
 
@@ -49,11 +49,13 @@ The application features a **modern, professional dashboard** ( Bit-by-Bit Manag
 ### 1. XAMPP Setup (Very Important – Database)
 
 1. Open **XAMPP Control Panel**
-2. Start **Apache** (runs on port **8081**)
-3. Start **MySQL** (runs on port **3306**)
+2. **XAMPP Control Panel** is in the apps folder (https://github.com/TXLegend28/SpringbootAssignment1.1a/tree/master/apps/xampp)
+3. No need of installing XAMPP, as the port will reset 
+4. Start **Apache** (runs on port **8081**)
+5. Start **MySQL** (runs on port **3306**)
    - **Make sure no other MySQL server is running** on port 3306 (stop any other MySQL services if needed)
-4. Open browser → `http://localhost:8081/phpmyadmin` (MySQL database)
-5. Create a new database named exactly: `ufh_cs_courses`
+6. Open browser → `http://localhost:8081/phpmyadmin` (MySQL database)
+7. Create a new database named exactly: `ufh_cs_courses`
 
 ### 2. Run the Spring Boot Application
 
