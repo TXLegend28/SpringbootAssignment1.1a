@@ -6,7 +6,7 @@
 **Assignment 1: Spring Boot Project with CRUD and Validation**  
 **Submission Date:** 10 April 2026  
 
-**Repository:** https://github.com/TXLegend28/SpringbootAssignment1.1  
+**Repository:** https://github.com/TXLegend28/SpringbootAssignment1.1a  
 
 **Group Members/ collaborators**
 1.	Zuma Gareth - 223038030 (TXLegend28)
