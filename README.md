@@ -62,12 +62,12 @@ The application features a **modern, professional dashboard** ( Bit-by-Bit Manag
 3. Wait until you see in the console:
 
 4. Open your web browser and go to:  
-**http://localhost:8082/courses**
+**http://localhost:8082**
 
 This is the **main professional dashboard** where you can view all courses.
 
 You can also test the CRUD API directly at:  
-- `http://localhost:8082/courses/api`
+- `http://localhost:8082/manage/`
 
 ---
 
