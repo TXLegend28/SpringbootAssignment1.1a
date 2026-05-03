@@ -64,7 +64,7 @@ The application features a **modern, fluid dashboard** ( Bit-by-Bit Management S
 3. Wait until you see in the console:
 
 4. Open your web browser and go to:  
-**http://http://localhost:8082/courses**
+**http://localhost:8082/courses**
 
 This is the **main professional dashboard** where you can view all courses.
 
