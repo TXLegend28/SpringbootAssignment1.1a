@@ -24,7 +24,7 @@ During development we created **multiple repositories** while learning and fixin
 
 - First repository: `springbootassignment`
 - Second repository: `springbootassignment1.1`
-- Final repository: `SpringbootAssignment1.1a` (this one)
+- Final repository: `SpringbootAssignment1.1a` (this one).
 
 All previous repositories still exist and contain the **initial states** of the project at different stages.  
 **All initialisation, updates, commits, pushes by all contributors was done in Gareth Zuma (TXLegend28)** on his IntelliJ IDEA from using the **master = orign/master** branch.
