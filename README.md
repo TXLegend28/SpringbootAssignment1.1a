@@ -16,7 +16,7 @@
 5.	Enam Ntlonti - 202210889 (Ed-Gift)
 6.	Thokozani Nyingizwayo - 224028634
 
----
+-----------------------------
 
 ## Repository History & Name Changes
 
